@@ -18,7 +18,8 @@ This repository contains the implementation of the **Quicksort algorithm**, both
    To get started, clone this repository to your local machine:
    ```bash
    git clone 
-   cd quicksort-assignment
+   cd 
+Assignment-5-Quicksort-Algorithm-Implementation-Analysis-and-Randomization
    ```
 
 2. **Requirements**
